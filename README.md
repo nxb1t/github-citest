@@ -1,1 +1,2 @@
 # github-citest
+CI example
